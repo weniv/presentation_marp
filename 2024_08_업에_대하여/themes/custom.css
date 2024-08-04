@@ -1,0 +1,24 @@
+/* @theme hojun */
+@import 'default';
+@import 'gaia';
+
+@font-face {
+    font-family: "jua";
+    src: url("fonts/BMJUA_ttf.ttf");
+}
+
+h1 {
+    font-family: "jua" !important;
+}
+
+p {
+    font-family: "jua" !important;
+}
+
+ul li {
+    font-family: "jua" !important;
+}
+
+section {
+    font-family: "jua" !important;
+}
